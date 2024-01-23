@@ -51,5 +51,5 @@ My name is Lam Nguyen. I am results-driven software developer/engineer with a pr
 ## Github Stats
 <a href="https://github.com/LamNg99">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LamNg99" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LamNg99&langs_count=4&layout=compact" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LamNg99&langs_count=6&layout=compact&hide=cython,tex" />
 </a>
